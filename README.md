@@ -1,5 +1,8 @@
 # Project Name - Toyota Sample Automation Script using Python Selenium (Robot Framework)
 
+## Tool
+The IDE that I am using is PyCharm
+
 ## Description
 This is a sample automation script using Python Selenium (Robot Framework). The challenge was given by toyota as an application exam. The challenge shows multiple steps but in summary it requests to test the input box and the alert messages of the website. (I cannot show the exact steps due to copyright or sensitive data)
 
